@@ -1,0 +1,13 @@
+body {min-height:2000px;
+      background-color: powderblue;}
+.jumbotron {
+	padding-top: 7rem;
+
+            background-color:powderblue;
+  }
+ .container .row {background-color: powderblue;
+                  padding-top: 2rem;}
+  h2 {padding-top: 2rem;}
+  .section {padding-top: 5rem}
+
+ 
